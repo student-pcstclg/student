@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajni Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fexploring-data-analysis-via-natural-language-approach-1-224965d1fb16&psig=AOvVaw3aAo2976IMW0XiWxuIrjUQ&ust=1728398225623000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDR8tO__IgDFQAAAAAdAAAAABAE">
+ <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*hZJV9DjRZW9DJ4XfRwQaIA.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=student-pcstclg&label=Profile%20views&color=0e75b6&style=flat" alt="student-pcstclg" /> </p>
 
 - 🔭 I’m currently working on **Project-RID**
